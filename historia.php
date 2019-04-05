@@ -419,7 +419,8 @@ section .section-title {
 						<li><a href="estados_financieros.php"><i class="fa fa-angle-double-right"></i>Estados Financieros</a></li>	
 						<li><a href="a_constitucion.php"><i class="fa fa-angle-double-right"></i>Acta de Constitución</a></li>
 						<li><a href="certificado_eyr.php"><i class="fa fa-angle-double-right"></i>Certificado de Existencia y Representación</a></li>
-						<li><a href="s_act_rte.php"><i class="fa fa-angle-double-right"></i>Solicitud 						<li><a href="estatutos.php"><i class="fa fa-angle-double-right"></i>Estatutos</a></li>
+						<li><a href="s_act_rte.php"><i class="fa fa-angle-double-right"></i>Solicitud de Actualización como RTE</li>
+						<li><a href="estatutos.php"><i class="fa fa-angle-double-right"></i>Estatutos</a></li>
 						<li><a href="a_rlegal.php"><i class="fa fa-angle-double-right"></i>Antecedentes de Representante Legal</a></li>
 						<li><a href="e_asigp.php"><i class="fa fa-angle-double-right"></i>Estado de Asignaciones Permanentes</a></li>
 						<li><a href="c_normativo.php"><i class="fa fa-angle-double-right"></i>Cumplimiento Normativo</a></li>	
